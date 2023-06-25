@@ -3,6 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmaher74&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmaher74" /> </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font='Hubballi'&color=d64b50&size=27&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer(Backend);Backend+Developer+@+ODC;Technical+Ambassador+@+ITI+CS50+program;"></a>
+</p>
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmaher74" alt="mohamedmaher74" /></a> </p>
 
 - 🔭 I’m Fresh Graduate Computer Science **Faculty of Computers & Informatics(SCU)**
