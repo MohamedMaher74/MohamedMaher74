@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 , I'm MohamedMaher</h1>
 <h3 align="center">Software Engineer(Backend)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmaher74&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmaher74" /> </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Fresh+Graduate+Computer+Science;Backend+Developer+@+ODC;Technical+Ambassador+@+ITI+CS50+program" alt="Typing SVG" /></a>
 </p>
