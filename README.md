@@ -2,12 +2,10 @@
 <h3 align="center">Software Engineer(Backend)</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Fresh+Graduate+Computer+Science;Backend+Developer+@+ODC;Technical+Ambassador+@+ITI+CS50+program" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Fresh+Graduate+Computer+Science (SCU);Backend+Developer+@+ODC;Technical+Ambassador+@+ITI+CS50+program" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedmaher74&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmaher74" /> </p>
-
-- 🔭 I’m Fresh Graduate Computer Science **Faculty of Computers & Informatics(SCU)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
