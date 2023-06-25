@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmaher74&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmaher74" /> </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Fresh+Graduate+Computer+Science;Backend+Developer+@+ODCr;Technical+Ambassador+@+ITI+CS50+program" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Fresh+Graduate+Computer+Science;Backend+Developer+@+ODC;Technical+Ambassador+@+ITI+CS50+program" alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmaher74" alt="mohamedmaher74" /></a> </p>
